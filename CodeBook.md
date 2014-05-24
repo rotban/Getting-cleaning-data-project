@@ -1,4 +1,6 @@
-## Code Book
+Code Book
+============================
+
 
 # Experiment details
 
